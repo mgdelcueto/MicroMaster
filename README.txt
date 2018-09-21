@@ -6,4 +6,4 @@ wrangle-data.R  - creates a derived dataset and saves as R object in the rda dir
 
 nalysis.R       - generates a plot ans saves it to the figs directory
 
-using git command line
+using git command line two time
